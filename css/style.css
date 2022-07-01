@@ -1,95 +1,134 @@
-body{
-
+element.style{
+padding-bottom: 354px;
 }
-h1, h2, h3{
-
+body {
+    background-color: rgba(255, 255, 255, 1);
 }
-
-
-nav{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: f5f5f5;     
+html, body {
+    font-size: 14px;
+    font-family: 'KreonLight';
 }
-nav>a{
-    text-decoration: none;
-    color: #a26d39;
-    font-weight: 800;
-    font-size: 32px;
-    font-family: 'Inter';
-
+html, body, .contact-input {
+    color: rgba(107, 93, 72, 1);
 }
-nav ul{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    list-style: none;
+body {
+    font-family: sans-serif;
+    background: #fff;
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+    box-sizing: border-box;
+}
+html, body {
+    font-size: 14px;
+}
+body {
+    line-height: 1rem;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     padding: 0;
-    width: 100%;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
 }
-nav ul li{
-    text-align: center;
-    width: 100%;
+*, *:before, *:after {
+    box-sizing: inherit;
 }
-nav ul li a{
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+body::before {
+    position: absolute;
+    top: 0;
+    z-index: 5;
     display: inline-block;
-    padding: 10px 0;
     width: 100%;
-    text-decoration: none;
-    color: #a26d39;
+    height: 20px;
+    background-image: url();
+    background-repeat: repeat-x;
+    background-size: 15px 20px;
+    content: '';
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
 }
 
 
-header{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-image: url("../img/Praia.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: #a26d39;
-    text-align: center;
-    padding: 20px;
-}
-header h1{
-    color: #a26d39;
-}
-header p{
-    margin-bottom: 2em;
-}
-
-
-#portifolio{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 10px 10px 20px 20px;
-    background-color: #000000;
-    color: #a26d39;
-}
-.dois{
-    position: absolute;
-    width: 690px;
-    height: 500px;
-    left: 20px;
-    top: 1110px;
-    background: #F5F5F5;
-}
-.foto2{
-    width: 10%;
-    position: absolute;
-    width: 657px;
-    height: 311px;
-    left: 36px;
-    top: 1131px;
-    background: url("../img/Gurias.jpg");
-}
-
-
+.boom-button, .cp__alboom-ty{
+    background-color:rgba(34, 65, 16, 0.46);
+    color:rgba(255, 255, 255, 1);
+    font-family:'KreonLight';
+    border-radius:10px;}
+.boom-button, .cp__alboom-type, body .cp__alboom-type:hover{
+    border-color:rgba(255, 255, 255, 1);}
+.boom-button:hover{
+    background-color:rgba(34, 66, 16, 1);}
+.boom-button:hover, .cp__alboom-type:hover{ 
+    color:rgba(255, 255, 255, 1);}
+.mhm__item{
+    color:rgba(102, 71, 62, 1);}
+.mhm__item:hover{
+    color:rgba(34, 65, 16, 0.6);}
+.main-header{
+    background-color:rgba(255, 255, 255, 0);}
+html, body, .contact-input{
+    color:rgba(107, 93, 72, 1);}
+.cs__title{
+    color:rgba(107, 93, 93, 1);
+    font-family:'KreonLight';}
+.fr-view a{
+    color:rgba(34, 65, 16, 1);}
+.fr-view a:hover{
+    color:rgba(34, 65, 16, 1);}
+.footer{
+    background-color:rgba(255, 255, 255, 1);
+    color:rgba(107, 93, 72, 1);}
+.footer .boom-button, .footer .cp__alboom-type{
+    background-color:rgba(107, 93, 72, 0.52);
+    border-color:rgba(255, 255, 255, 1);
+    color: rgba(188, 115, 109, undefined);}
+.mh__menu{
+    font-family:'KreonLight';}
+h2.cs__title{
+    font-size:22px;}
+html, body{
+    font-size:14px;
+    font-family:'KreonLight';}
+.b__info .b__heading{
+    font-family:'KreonLight';
+    font-size:24px;
+    letter-spacing:0px;}
+.b__info .b__subtitle{
+    font-family:'KreonLight';}
+.b__info{
+    color:rgba(107, 93, 72, 1);}
+body:not(.sidenav) .mhm__item{
+    padding:10px 4px;}
+body.sidenav .mhm__item{
+    padding-top:4px;
+    padding-bottom:4px;}
+.mh__logo figure img{
+    max-width:100%;
+    max-height:100%;}
+body{
+    background-color:rgba(255, 255, 255, 1);}
+.mh__menu, .mhm__item{
+    font-size:16px;
+    letter-spacing:2.5px;}
+.nav-drawer .ndc__item:hover{
+    color:rgb(34, 65, 16);}
+.content-preview:hover .cp__thumbnail:before{
+    background-color:rgba(255, 255, 255, .8);}
 
 
 
