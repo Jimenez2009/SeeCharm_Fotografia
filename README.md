@@ -1,4 +1,53 @@
 # SeeCharm_Fotografia
+<head>
+<!-- Canonical URL -->
+
+<link rel="canonical" href="https://ritielestumm.alboompro.com">  
+<link rel="stylesheet" href="https://bifrost.alboompro.com/static/boom-v3/themes/4/dist/css/main.min.css?v=2.8.594" id="cssPath">
+<link rel="stylesheet" href="https://bifrost.alboompro.com/fonts/webfonts.min.css?v=2.8.594" id="customFonts">
+<link rel="stylesheet" href="https://bifrost.alboompro.com/static/boom-v3/assets/vendors/font-awesome/5.9.0/css/all.min.css?v=2.8.594">
+
+<meta property="fb:app_id" content="882466608465785">
+
+<!-- Facebook Pixel Code -->
+
+<script src="https://connect.facebook.net/pt_BR/sdk.js?hash=b1a2ddfb9bddf339015d96821ecbbfa5" async="" crossorigin="anonymous"></script>
+<script id="facebook-jssdk" async="" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&amp;appId=882466608465785&amp;version=v2.9"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', 'https://www.facebook.com/RitieleStummFotografiadeFamilia/inbox/?fb_dtsg_ag=Adz1TPO0QI-9_ZwZ1ls5o55YNtSDTMpSGSy9QiiuSus14w%3AAdxgk1GydqISeR-_m31o_0gZAeqAtfCN9v_Oqlvz7IHEAQ');
+    fbq('track', "PageView");
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=https://www.facebook.com/RitieleStummFotografiadeFamilia/inbox/?fb_dtsg_ag=Adz1TPO0QI-9_ZwZ1ls5o55YNtSDTMpSGSy9QiiuSus14w%3AAdxgk1GydqISeR-_m31o_0gZAeqAtfCN9v_Oqlvz7IHEAQ&ev=PageView&noscript=1"/>
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-63230122-4', 'auto', {'name': 'Alboom'});
+    ga('Alboom.send', 'pageview');
+</script>
+
+<script>window.templateId = 4</script>
+<style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">
+</style>
+</head>
+
+
+
+
 <body>
     <header class="main-header  mh--a-center" id="mainHeader">
         <div class="container">
@@ -7,47 +56,14 @@
                     <img src="./img/seecharm.png" alt="Sara Talita Castro" class="accelerated initial loading" data-was-processed="true" draggable="false" style="pointer-events: none;">
                 </figure>
             </a>
-
             <nav class="mh__menu mh__menu-separator-none" id="mainMenu">
                 <a href="/home" class="mhm__item">HOME</a>            
                 <a href="/portfolio" class="mhm__item">PORTIFÓLIO</a>
                 <a href="/sobre" class="mhm__item">SOBRE</a>
                 <a href="/contato" class="mhm__item">CONTATO</a>
             </nav>
-      </div>
-    </header>
-
-    <nav class="nav-drawerlight-dark" id="navDrawer">
-        <a href="/" class="nd__logo" title="Página inicial Sara Talita Castro">'
-            <figure>
-            <img src="./img/seecharm.png" alt="Logotipo de Ritiele Araujo Stumm" draggable="false" style="pointer-events: none;">
-            </figure>
-        </a>
-
-        <div class="nd__content">
-            <a href="/home" class="ndc__item mhm__item">Home</a>
-            <a href="/portfolio" class="ndc__item mhm__item">Trabalhos</a>
-            <a href="/sobre" class="ndc__item mhm__item">Sobre</a>
-            <a href="/contato" class="ndc__item mhm__item">Contato</a>  
         </div>
-
-        <div class="nd__social light-dark">
-            <ul class="nds-list">
-                <li class="ndsl__item mhm__item">
-                    <a href="https://www.facebook.com/RitieleStummFotografiadeFamilia/" target="_blank" title="Facebook de Ritiele Araujo Stumm">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                </li>
-
-                <li class="ndsl__item mhm__item">
-                    <a href="@ritielestummfotografia" target="_blank" title="Instagram de Ritiele Araujo Stumm">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                </li>
-            </ul>
-      </div>
-    </nav>
-
+    </header>
     <a href="#" id="nav-hamburguer" class="nd__button no-link
         light-dark" data-toggle-class="js-fixed" data-toggle-target="menuContainer">
         <i class="ndb__icon top"></i>
@@ -58,21 +74,3 @@
 
 
 
-
-
-
-<html lang="pt-BR" class=" objectfit object-fit">
-<head>
-
-<meta property="og:title" content="Ritiele Stumm Fotografia de Família">
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://ritielestumm.alboompro.com/">
-<meta property="og:image" itemprop="image" content="https://alfred.alboompro.com/crop/width/600/height/400/mode/jpeg/url/storage.alboom.ninja/sites/7644/img/sobre/famlia_riti_178.jpg?t=1530829176">
-<meta property="og:image:type" content="image/jpeg">
-<meta property="og:image:width" content="600">
-<meta property="og:image:height" content="400">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="mobile-web-app-capable" content="yes">
-  
-</head>
